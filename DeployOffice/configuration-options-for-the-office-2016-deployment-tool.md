@@ -149,6 +149,7 @@ Example values:
   </Product>
 </Add>  
 ```
+Note that you must specify a Version when using DownloadPath.
 
 ### AllowCdnFallback attribute (part of Add element) 
 
